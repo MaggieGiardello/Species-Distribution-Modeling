@@ -176,8 +176,6 @@ ggplot() +
 ggsave("output/habronattusCurrentSdm.jpg",  width = 8, height = 6)
 
 #### End Current SDM #########
-
-
 #### Start Future SDM ########
 
 
